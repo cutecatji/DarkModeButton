@@ -10,6 +10,6 @@ body {
       border-radius:50%;
       border:none;
     }
-#color{
+#color:hover{
             cursor:pointer;
 }
